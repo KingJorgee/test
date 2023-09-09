@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bala Chandra Akula</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil685838&label=Profile%20views&color=0e75b6&style=flat" alt="kapil685838" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil685838&label=Profile%20views&color=0e75b6&style=flat" alt="KingJorgee" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
