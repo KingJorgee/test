@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kapil-chaudhary-0a7245230/" target="_blank">
+<a href="https://www.linkedin.com/in/bala-chandra-akula/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil chaudhary" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kapil_68" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kapil_68" height="30" width="40" /></a>
